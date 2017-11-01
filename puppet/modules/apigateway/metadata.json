@@ -1,0 +1,15 @@
+{
+  "name": "oracle-apigateway",
+  "version": "0.1.0",
+  "author": "Arturo Viveros",
+  "summary": "extension to work with Oracle API Gateway",
+  "license": "Apache-2.0",
+  "source": "http://github.com/gugalnikov",
+  "project_page": "https://github.com/gugalnikov",
+  "issues_url": "https://github.com/gugalnikov/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
